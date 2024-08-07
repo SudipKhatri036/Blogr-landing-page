@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-interactive-product-listing-with-carts-Bdpi0g3009](https://www.frontendmentor.io/solutions/responsive-interactive-product-listing-with-carts-Bdpi0g3009)
-- Live Site URL: [https://projectlistwithcart.netlify.app/](https://projectlistwithcart.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/blogr-landing-page-using-html-css-javascript-ugHioooNuI](https://www.frontendmentor.io/solutions/blogr-landing-page-using-html-css-javascript-ugHioooNuI)
+- Live Site URL: [https://blogr-landingpage-frontend.netlify.app/](https://blogr-landingpage-frontend.netlify.app/)
 
 ## My process
 
